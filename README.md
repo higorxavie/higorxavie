@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @higorxavie
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning JS language
 
 <!---
 higorxavie/higorxavie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
